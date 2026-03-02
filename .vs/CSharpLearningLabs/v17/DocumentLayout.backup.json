@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\Repositories\\latihan_koding\\dotnetC#\\CSharpLearningLabs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51191661-3C27-4D0B-A38A-D991B019A734}|CSharpLearningLabs\\CSharpLearningLabs.csproj|c:\\github\\repositories\\latihan_koding\\dotnetc#\\csharplearninglabs\\csharplearninglabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51191661-3C27-4D0B-A38A-D991B019A734}|CSharpLearningLabs\\CSharpLearningLabs.csproj|solutionrelative:csharplearninglabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\Repositories\\latihan_koding\\dotnetC#\\CSharpLearningLabs\\CSharpLearningLabs\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpLearningLabs\\Program.cs",
+              "ToolTip": "C:\\Github\\Repositories\\latihan_koding\\dotnetC#\\CSharpLearningLabs\\CSharpLearningLabs\\Program.cs",
+              "RelativeToolTip": "CSharpLearningLabs\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:59:18.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
